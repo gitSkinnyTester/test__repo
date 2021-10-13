@@ -1,9 +1,7 @@
 #Hello Github!
 
-Update v3!!!...
-!!!!!!!!!!!!!
-/////////////
-\\\\\\\\\\\\\
+~~ OKEH KAYOH ~~
+~~ LAMEH KAYOH ~~
 
 Added new feature v2
 added new feature v2.1
